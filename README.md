@@ -1,5 +1,9 @@
 # Repositorio CVDS - Tomas Panqueva
 
+- Tomas Felipe Panqueva
+- Juan Pablo Camargo
+
+
 ---
 
 Curso: CVDS \
